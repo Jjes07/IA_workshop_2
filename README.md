@@ -1,7 +1,9 @@
 # Workshop 2 – Machine Learning & Deep Learning Aplicado
 
 **Universidad EAFIT – Introducción a la Inteligencia Artificial (2026-01)**
-
+## Integrantes
+- Juan David Salas Castaño
+- 
 ---
 
 ## Descripción General
