@@ -3,7 +3,7 @@
 **Universidad EAFIT – Introducción a la Inteligencia Artificial (2026-01)**
 ## Integrantes
 - Juan David Salas Castaño
-- 
+- Juan José Escobar Saldarriaga
 ---
 
 ## Descripción General
